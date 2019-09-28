@@ -1,4 +1,2 @@
-Instacart is challenging the Kaggle community to use this anonymized data on customer orders over time to predict which previously purchased products will be in a user’s next order.
-
-
+Instacart is challenging the Kaggle community to use this anonymized data on customer orders over time to predict which previously purchased products will be in a userâ€™s next order.
 https://www.kaggle.com/c/instacart-market-basket-analysis/overview
